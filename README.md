@@ -9,11 +9,11 @@
 
 <a href="https://github.com/sajjadsiam/git">
   <img
-    src="https://github.com/sajjadsiam/git/blob/main/generated/overview.svg"
+    src="https://github.com/sajjadsiam/sajjadsiam/blob/main/generated/overview.svg"
     alt="GitHub Overview"
   />
   <img
-    src="https://github.com/sajjadsiam/git/blob/main/generated/languages.svg"
+    src="https://github.com/sajjadsiam/sajjadsiam/blob/main/generated/languages.svg"
     alt="GitHub Languages"
   />
 </a>
