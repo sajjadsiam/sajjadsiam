@@ -1,17 +1,22 @@
-### Hi there 👋
+### 👋🏻 I can design/develop anything 
+
+**No matter which field of work you want to go in, it is of great importance to learn at least one programming language. ― 🐛 (Ram Ray)**
+
+**Clean code always looks like it was written by someone who cares. — 👷 (Robert C. Martin )**
+
+**First, solve the problem. Then, write the code. – John Johnson 👷 (John Johnson)**
+
+
+<a href="https://github.com/sajjadsiam/git">
+  <img
+    src="https://github.com/sajjadsiam/git/blob/main/generated/overview.svg"
+    alt="GitHub Overview"
+  />
+  <img
+    src="https://github.com/sajjadsiam/git/blob/main/generated/languages.svg"
+    alt="GitHub Languages"
+  />
+</a>
+
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sajjadsiam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-
-<!--
-**sajjadsiam/sajjadsiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
