@@ -8,13 +8,15 @@ I'm **Sajjad Siam**, a Full Stack Web Application Developer from <img src="bangl
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sajjadsiam13) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sajjadsiam13) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsian) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sajjadsi.am) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sajjadsiam0) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjadsiam@yahoo.com) [![Website Badge](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sajjadsiam.com)
 
+
 :hearts: &emsp;I have a passion for coding and sharing knowledge with others. <br/>
 :computer: &emsp;Favorite line of code: `print("hello world")` <br/>
 🤔 &emsp;I’m on the lookout for collaborators who can bring creative video ideas and help with execution. <br/>
 :e-mail: &emsp;Get in touch with me: [sajjadsiam@yahoo.com](mailto:sajjadsiam@yahoo.com) <br/>
 
 
-#### Technologies I Work With
+##  ✨ &emsp;Technologies I Work With
+
 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
