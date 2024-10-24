@@ -57,15 +57,15 @@ I'm **Sajjad Siam**, a Full Stack Web Application Developer from <img src="bangl
 
 <br >
 
-I enjoy sharing my knowledge and creating tutorials, courses, and content to help developers at all levels. That's why I created my YouTube channel—**Siam's Coding Space**!
+I enjoy sharing my knowledge and creating tutorials, courses, and content to help developers at all levels. That's why I created my YouTube channel—**Sajjad Siam**!
 
 #### What is Siam's Coding Space?
 
-**Siam's Coding Space** is dedicated to teaching web development skills in a practical and efficient way. My channel covers everything from frontend to backend, giving you the tools to become a full stack developer. I launched **Siam's Coding Space** to share my passion for development and to inspire the next generation of web developers with hands-on learning and real-world projects.
+**Sajjad Siam** is dedicated to teaching web development skills in a practical and efficient way. My channel covers everything from frontend to backend, giving you the tools to become a full stack developer. I launched **Sajjad Siam** to share my passion for development and to inspire the next generation of web developers with hands-on learning and real-world projects.
 
 #### GitHub Stats
 
-![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Sajjad Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadsiam&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
