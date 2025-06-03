@@ -44,8 +44,6 @@ I'm **Sajjad Siam**, a Full Stack Web Application Developer from <img src="bangl
 
 :email: &emsp;sajjadsiam@yahoo.com
 <br >
-:email: &emsp;sajjadhosensiam@gmail.com
-<br >
 
 
 #### Profile Visits
