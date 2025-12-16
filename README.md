@@ -80,16 +80,6 @@ I enjoy sharing my knowledge and creating tutorials, courses, and content to hel
 **First, solve the problem. Then, write the code. – John Johnson 👷 (John Johnson)**
 
 
-<a href="https://github.com/sajjadsiam/git">
-  <img
-    src="https://github.com/sajjadsiam/sajjadsiam/blob/main/generated/overview.svg"
-    alt="GitHub Overview"
-  />
-  <img
-    src="https://github.com/sajjadsiam/sajjadsiam/blob/main/generated/languages.svg"
-    alt="GitHub Languages"
-  />
-</a>
 
 
 
