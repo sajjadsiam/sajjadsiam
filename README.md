@@ -109,18 +109,6 @@ I'm always open to collaboration and new opportunities!
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadsiam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadsiam&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💡 My Mission
 
 > **"Making the web safer, one vulnerability at a time."**
