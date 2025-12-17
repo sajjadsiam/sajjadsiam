@@ -1,85 +1,200 @@
 ![Github Banner](github-banner.png)
 
+<div align="center">
 
-I'm **Sajjad Siam**, a Full Stack Web Application Developer from <img src="bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/@sajjadsiam13).  I specialize in building robust web applications and creating high-quality content on YouTube to share my knowledge with the world.
+# 👋 Sajjad Siam
 
-## 🌐 &emsp;Connect with Me!
+**Cybersecurity Researcher | Bug Hunter | Full Stack Developer | Web Penetration Tester**
 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sajjadsiam13)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sajjadsiam13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsian)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sajjadsi.am)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sajjadsiam0)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sajjadsiam.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjadsiam@yahoo.com)
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sajjadsiam13) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sajjadsiam13) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsian) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sajjadsi.am) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sajjadsiam0) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjadsiam@yahoo.com) [![Website Badge](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sajjadsiam.com)
+<img src="https://komarev.com/ghpvc/?username=sajjadsiam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
+</div>
 
-:hearts: &emsp;I have a passion for coding and sharing knowledge with others. <br/>
-:computer: &emsp;Favorite line of code: `print("hello world")` <br/>
-🤔 &emsp;I’m on the lookout for collaborators who can bring creative video ideas and help with execution. <br/>
-:e-mail: &emsp;Get in touch with me: [sajjadsiam@yahoo.com](mailto:sajjadsiam@yahoo.com) <br/>
+---
 
+## 🎯 About Me
 
-##  ✨ &emsp;Technologies I Work With
+I'm a **Cybersecurity Researcher** and **Full Stack Developer** from <img src="bangladesh.png" width="18"/> **Bangladesh**, specializing in security research, bug bounty hunting, and building robust web applications. I create educational content on [YouTube](https://youtube.com/@sajjadsiam13) to share knowledge about development and security with the community.
 
+```python
+class SajjadSiam:
+    def __init__(self):
+        self.role = "Security Researcher & Full Stack Developer"
+        self.location = "Bangladesh"
+        self.interests = ["Bug Bounty", "Web Security", "CTF", "Web Development"]
+        self.current_focus = "Finding vulnerabilities and building secure applications"
+    
+    def say_hi(self):
+        print("Thanks for stopping by! Let's make the web more secure together.")
 
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
-[![REST API Badge](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest-api&logoColor=white)](#)
-[![Solidity Badge](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](#)
-[![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
-[![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+me = SajjadSiam()
+me.say_hi()
+```
 
+🔐 &nbsp;Passionate about finding vulnerabilities and making the web more secure  
+🐛 &nbsp;Active bug bounty hunter and CTF player  
+💻 &nbsp;Building secure, scalable web applications  
+🎓 &nbsp;Sharing knowledge through YouTube tutorials and courses  
+🤝 &nbsp;Open to collaboration on security research and innovative projects
 
+---
 
-#### Business
+## 🛡️ Security & Research
 
-:email: &emsp;sajjadsiam@yahoo.com
-<br >
+### Expertise Areas
 
+- 🔍 **Bug Bounty Hunting** - Active researcher on multiple platforms
+- 🎯 **Web Penetration Testing** - OWASP Top 10, API Security, Authentication flaws
+- 🚩 **CTF Player** - Participating in Capture The Flag competitions
+- 🔐 **Security Research** - Vulnerability discovery and responsible disclosure
+- 🛠️ **Security Tools** - Custom tool development for security testing
 
-#### Profile Visits
-<p align="left"><img src="https://komarev.com/ghpvc/?username=sajjadsiam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+### Security Focus
 
+```text
+[■■■■■■■■■■] Web Application Security
+[■■■■■■■■■□] API Security Testing
+[■■■■■■■■□□] Network Security
+[■■■■■■■□□□] Cryptography
+[■■■■■■■■□□] Source Code Review
+```
 
-<details>
-<summary>
-  Want to know more about me?
-</summary>
+---
 
-<br >
+## 💻 Development Stack
 
-I enjoy sharing my knowledge and creating tutorials, courses, and content to help developers at all levels. That's why I created my YouTube channel—**Sajjad Siam**!
+### Languages & Frameworks
 
-#### What is Siam's Coding Space?
+**Frontend Development**
+```
+HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Tailwind CSS | SASS
+```
 
-**Sajjad Siam** is dedicated to teaching web development skills in a practical and efficient way. My channel covers everything from frontend to backend, giving you the tools to become a full stack developer. I launched **Sajjad Siam** to share my passion for development and to inspire the next generation of web developers with hands-on learning and real-world projects.
+**Backend Development**
+```
+Node.js | Express.js | Django | REST API | GraphQL
+```
 
-#### GitHub Stats
+**Blockchain & Smart Contracts**
+```
+Solidity | Web3 | Smart Contract Security
+```
 
-![Sajjad Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadsiam&count_private=true&theme=tokyonight&hide=contribs,prs)
+**Databases**
+```
+MongoDB | SQLite | Database Security
+```
 
-</details>
+### Technologies
 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest-api&logoColor=white)](#)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 
+### Security Tools & Platforms
 
-### 👋🏻 I can design/develop anything 
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](#)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)](#)
+[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](#)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
 
-**No matter which field of work you want to go in, it is of great importance to learn at least one programming language. ― 🐛 (Ram Ray)**
+---
 
-**Clean code always looks like it was written by someone who cares. — 👷 (Robert C. Martin )**
+## 📊 GitHub Statistics
 
-**First, solve the problem. Then, write the code. – John Johnson 👷 (John Johnson)**
+<div align="center">
 
+![Sajjad Siam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadsiam&count_private=true&theme=tokyonight&hide=contribs,prs&show_icons=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadsiam&layout=compact&theme=tokyonight)
 
+</div>
 
+---
 
+## 🎬 Content Creation
+
+I run a **YouTube channel** where I share tutorials and insights about:
+
+- 🔐 Web Application Security & Penetration Testing
+- 💻 Full Stack Web Development
+- 🐛 Bug Bounty Tips & Methodologies
+- 🚩 CTF Walkthroughs
+- 🛠️ Security Tools & Techniques
+
+**Subscribe to stay updated:** [Sajjad Siam on YouTube](https://youtube.com/@sajjadsiam13)
+
+---
+
+## 💼 Professional Services
+
+I offer professional services in:
+
+✅ **Security Consulting** - Web application security assessments  
+✅ **Penetration Testing** - Comprehensive security testing  
+✅ **Secure Code Review** - Identifying vulnerabilities in source code  
+✅ **Full Stack Development** - Building secure, scalable applications  
+✅ **Bug Bounty Collaboration** - Team-based vulnerability research  
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+
+- 🔐 Security research projects
+- 🐛 Bug bounty programs
+- 💻 Open source security tools
+- 🎥 Educational content creation
+- 🚩 CTF team participation
+
+---
+
+## 📫 Contact Information
+
+**Business Inquiries:** [sajjadsiam@yahoo.com](mailto:sajjadsiam@yahoo.com)
+
+---
+
+## 💭 Philosophy
+
+> *"First, solve the problem. Then, write the code."* — **John Johnson**
+
+> *"Security is not a product, but a process."* — **Bruce Schneier**
+
+> *"Clean code always looks like it was written by someone who cares."* — **Robert C. Martin**
+
+---
+
+<div align="center">
+
+### 🌟 *"Making the web safer, one vulnerability at a time"* 🌟
+
+**⭐ If you find my work helpful, consider giving my projects a star!**
+
+</div>
