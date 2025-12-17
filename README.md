@@ -1,18 +1,9 @@
-![Github Banner](github-banner.png)
-
 <div align="center">
 
-# 👋 Sajjad Siam
+# Sajjad Siam
 
 **Cybersecurity Researcher | Bug Hunter | Full Stack Developer | Web Penetration Tester**
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sajjadsiam13)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sajjadsiam13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjadsian)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sajjadsi.am)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sajjadsiam0)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sajjadsiam.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjadsiam@yahoo.com)
 
 <img src="https://komarev.com/ghpvc/?username=sajjadsiam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
