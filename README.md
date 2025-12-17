@@ -2,117 +2,110 @@
 
 # Sajjad Siam
 
-**Cybersecurity Researcher | Bug Hunter | Full Stack Developer | Web Penetration Tester**
+### Cybersecurity Researcher | Bug Bounty Hunter | Full Stack Developer | Web Penetration Tester
 
+[![Website](https://img.shields.io/badge/🌐_Website-sajjadsiam.com-blue?style=for-the-badge)](https://sajjadsiam.com)
+[![YouTube](https://img.shields.io/badge/▶️_YouTube-@sajjadsiam13-red?style=for-the-badge&logo=youtube)](https://youtube.com/@sajjadsiam13)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajjadsiam13)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:sajjadsiam@yahoo.com)
 
-<img src="https://komarev.com/ghpvc/?username=sajjadsiam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=sajjadsiam&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👤 About Me
 
-I'm a **Cybersecurity Researcher** and **Full Stack Developer** from <img src="bangladesh.png" width="18"/> **Bangladesh**, specializing in security research, bug bounty hunting, and building robust web applications. I create educational content on [YouTube](https://youtube.com/@sajjadsiam13) to share knowledge about development and security with the community.
+🌍 **Location:** Dhaka, Bangladesh  
+💼 **Role:** Cybersecurity Researcher & Full Stack Developer  
+🔐 **Specialization:** Web Security, Bug Bounty Hunting, Penetration Testing  
+🎯 **Current Focus:** Finding vulnerabilities and building secure applications
 
-```python
-class SajjadSiam:
-    def __init__(self):
-        self.role = "Security Researcher & Full Stack Developer"
-        self.location = "Bangladesh"
-        self.interests = ["Bug Bounty", "Web Security", "CTF", "Web Development"]
-        self.current_focus = "Finding vulnerabilities and building secure applications"
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's make the web more secure together.")
+**Who I Am:**
 
-me = SajjadSiam()
-me.say_hi()
-```
-
-🔐 &nbsp;Passionate about finding vulnerabilities and making the web more secure  
-🐛 &nbsp;Active bug bounty hunter and CTF player  
-💻 &nbsp;Building secure, scalable web applications  
-🎓 &nbsp;Sharing knowledge through YouTube tutorials and courses  
-🤝 &nbsp;Open to collaboration on security research and innovative projects
+I'm a security researcher who specializes in finding and fixing vulnerabilities in web applications. I work as a bug bounty hunter, discovering security flaws before malicious hackers can exploit them. I also build secure web applications using modern technologies and share my knowledge through YouTube tutorials to help others learn about cybersecurity and web development.
 
 ---
 
-## 🛡️ Security & Research
+## 🛠️ Skills & Expertise
 
-### Expertise Areas
+### 🔐 Cybersecurity Skills
 
-- 🔍 **Bug Bounty Hunting** - Active researcher on multiple platforms
-- 🎯 **Web Penetration Testing** - OWASP Top 10, API Security, Authentication flaws
-- 🚩 **CTF Player** - Participating in Capture The Flag competitions
-- 🔐 **Security Research** - Vulnerability discovery and responsible disclosure
-- 🛠️ **Security Tools** - Custom tool development for security testing
+| Category | Technologies & Tools |
+|----------|---------------------|
+| **Penetration Testing** | Web Application Testing, API Security, Authentication Testing |
+| **Vulnerability Research** | OWASP Top 10, SQL Injection, XSS, CSRF, Business Logic Flaws |
+| **Bug Bounty Platforms** | HackerOne, Bugcrowd, Private Programs |
+| **Security Tools** | Burp Suite, OWASP ZAP, Metasploit, Nmap, SQLMap, Wireshark |
+| **CTF & Challenges** | Capture The Flag Competitions, Security CTFs |
 
-### Security Focus
+### 💻 Development Skills
 
-```text
-[■■■■■■■■■■] Web Application Security
-[■■■■■■■■■□] API Security Testing
-[■■■■■■■■□□] Network Security
-[■■■■■■■□□□] Cryptography
-[■■■■■■■■□□] Source Code Review
-```
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | JavaScript, TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Django, Python, REST API, GraphQL |
+| **Databases** | MongoDB, PostgreSQL, SQLite, Redis |
+| **Blockchain** | Solidity, Web3.js, Smart Contract Security |
+| **Tools & DevOps** | Docker, Git, GitHub, Linux (Kali, Ubuntu), VS Code |
 
 ---
 
-## 💻 Development Stack
+## 🏆 What I Do
 
-### Languages & Frameworks
+### Security Research & Bug Bounty
+- 🔍 **Active Bug Bounty Hunter** - Finding and reporting security vulnerabilities on platforms like HackerOne and Bugcrowd
+- 🎯 **Web Penetration Testing** - Testing web applications for OWASP Top 10 vulnerabilities
+- 🚩 **CTF Player** - Participating in Capture The Flag competitions and security challenges
+- 🛡️ **Responsible Disclosure** - Helping companies fix security issues before hackers exploit them
 
-**Frontend Development**
-```
-HTML5 | CSS3 | JavaScript | TypeScript | React | Next.js | Tailwind CSS | SASS
-```
+### Development & Content Creation
+- 💻 **Full Stack Development** - Building secure, modern web applications
+- 🎓 **YouTube Content Creator** - Teaching cybersecurity and web development on my channel
+- 🔧 **Tool Development** - Creating security tools and scripts for testing
+- 📚 **Knowledge Sharing** - Writing tutorials and guides for the community
 
-**Backend Development**
-```
-Node.js | Express.js | Django | REST API | GraphQL
-```
+---
 
-**Blockchain & Smart Contracts**
-```
-Solidity | Web3 | Smart Contract Security
-```
+## 💼 Professional Services
 
-**Databases**
-```
-MongoDB | SQLite | Database Security
-```
+I offer professional services for businesses and individuals:
 
-### Technologies
+### 🔐 Security Services
+- ✅ **Web Application Security Testing** - Find vulnerabilities before hackers do
+- ✅ **Penetration Testing** - Comprehensive security assessment of your systems
+- ✅ **API Security Testing** - Ensure your APIs are secure from attacks
+- ✅ **Security Code Review** - Review your code for security vulnerabilities
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
-[![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest-api&logoColor=white)](#)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
-[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+### 💻 Development Services
+- ✅ **Full Stack Web Development** - Build modern, secure web applications
+- ✅ **Secure Application Design** - Design applications with security in mind
+- ✅ **Bug Bounty Collaboration** - Work together on vulnerability research
+- ✅ **Security Consulting** - Get expert advice on security best practices
 
-### Security Tools & Platforms
+---
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](#)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)](#)
-[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](#)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
+## 📬 Let's Connect
+
+I'm always open to collaboration and new opportunities!
+
+### 📱 Contact Information
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [sajjadsiam@yahoo.com](mailto:sajjadsiam@yahoo.com) |
+| 🌐 **Website** | [sajjadsiam.com](https://sajjadsiam.com) |
+| ▶️ **YouTube** | [@sajjadsiam13](https://youtube.com/@sajjadsiam13) |
+| 💼 **LinkedIn** | [@sajjadsiam13](https://linkedin.com/in/sajjadsiam13) |
+| 💻 **GitHub** | [@sajjadsiam](https://github.com/sajjadsiam) |
+
+### 🤝 Open to Collaboration On:
+- 🔐 Security research projects and bug bounty programs
+- 🛠️ Open source security tool development
+- 🚩 CTF team participation and competitions
+- 🎥 Educational content creation and tutorials
+- 💼 Professional security consulting projects
 
 ---
 
@@ -120,72 +113,45 @@ MongoDB | SQLite | Database Security
 
 <div align="center">
 
-![Sajjad Siam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadsiam&count_private=true&theme=tokyonight&hide=contribs,prs&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadsiam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadsiam&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadsiam&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🎬 Content Creation
+## 💡 My Mission
 
-I run a **YouTube channel** where I share tutorials and insights about:
+> **"Making the web safer, one vulnerability at a time."**
 
-- 🔐 Web Application Security & Penetration Testing
-- 💻 Full Stack Web Development
-- 🐛 Bug Bounty Tips & Methodologies
-- 🚩 CTF Walkthroughs
-- 🛠️ Security Tools & Techniques
+I believe that security should be accessible to everyone. Through my work in bug bounty hunting, penetration testing, and educational content, I aim to:
 
-**Subscribe to stay updated:** [Sajjad Siam on YouTube](https://youtube.com/@sajjadsiam13)
-
----
-
-## 💼 Professional Services
-
-I offer professional services in:
-
-✅ **Security Consulting** - Web application security assessments  
-✅ **Penetration Testing** - Comprehensive security testing  
-✅ **Secure Code Review** - Identifying vulnerabilities in source code  
-✅ **Full Stack Development** - Building secure, scalable applications  
-✅ **Bug Bounty Collaboration** - Team-based vulnerability research  
+- 🔒 Help companies secure their applications before hackers attack
+- 📚 Share knowledge to help others learn cybersecurity
+- 🌐 Make the internet a safer place for everyone
+- 🤝 Build a strong, collaborative security community
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Fun Facts
 
-I'm always interested in collaborating on:
-
-- 🔐 Security research projects
-- 🐛 Bug bounty programs
-- 💻 Open source security tools
-- 🎥 Educational content creation
-- 🚩 CTF team participation
-
----
-
-## 📫 Contact Information
-
-**Business Inquiries:** [sajjadsiam@yahoo.com](mailto:sajjadsiam@yahoo.com)
-
----
-
-## 💭 Philosophy
-
-> *"First, solve the problem. Then, write the code."* — **John Johnson**
-
-> *"Security is not a product, but a process."* — **Bruce Schneier**
-
-> *"Clean code always looks like it was written by someone who cares."* — **Robert C. Martin**
+- 💻 **Favorite Code:** `print("Hello, Security World!")`
+- 🐛 **Favorite Activity:** Finding bugs that others miss
+- 📖 **Always Learning:** New vulnerabilities, tools, and techniques
+- ☕ **Powered By:** Coffee, curiosity, and a passion for security
 
 ---
 
 <div align="center">
 
-### 🌟 *"Making the web safer, one vulnerability at a time"* 🌟
+### ⭐ If you find my work helpful, consider starring my repositories!
 
-**⭐ If you find my work helpful, consider giving my projects a star!**
+**📧 Business Inquiries:** [sajjadsiam@yahoo.com](mailto:sajjadsiam@yahoo.com)
+
+---
+
+*"The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead-lined room with armed guards."*  
+**— Gene Spafford**
 
 </div>
