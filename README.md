@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=140&section=header&text=Sajjad%20Siam&fontSize=55&fontAlignY=35&desc=Security%20Researcher%20·%20Bug%20Bounty%20Hunter%20·%20Full%20Stack%20Developer&descAlignY=58&descSize=16&fontColor=ffffff"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Finding+bugs+others+miss+🐛;Building+secure+applications+🔒;Making+the+web+safer+🌐;Active+on+HackerOne+%26+Bugcrowd+🎯" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Finding%20bugs%20others%20miss%20%F0%9F%90%9B%3BBuilding%20secure%20applications%20%F0%9F%94%92%3BMaking%20the%20web%20safer%20%F0%9F%8C%90%3BActive%20on%20HackerOne%20%26%20Bugcrowd%20%F0%9F%8E%AF" alt="Typing SVG"/>
 
 <br/>
 
@@ -52,20 +52,6 @@ Security researcher from **Dhaka, Bangladesh** specializing in finding and respo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sajjadsiam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadsiam&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sajjadsiam&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
